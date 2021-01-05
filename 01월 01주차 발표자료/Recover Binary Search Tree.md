@@ -60,6 +60,7 @@ class Solution {
 			if (list.get(i) > list.get(i + 1)) {
 				if (value1 == 0) {
 					value1 = list.get(i);
+					value2 = list.get(i + 1);
 				} else {
 					value2 = list.get(i + 1);
 					break;
