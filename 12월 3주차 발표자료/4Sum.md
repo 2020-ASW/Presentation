@@ -18,7 +18,7 @@
 
 - nums 배열 중 4개를 골라 값을 구할 시 On(N^4)로 실행시간 초과가 발생한다.
 
-- 때문에 배열을 정리해주고 a+b+c+d = target에서 a+b를 선택하고 Two Pointer를 통해 c와 d의 값을 결정하면 On(N^3) 으로 통과할 수 있다.
+- 때문에 배열을 정렬해주고 a+b+c+d = target에서 a+b를 선택하고 Two Pointer를 통해 c와 d의 값을 결정하면 On(N^3) 으로 통과할 수 있다.
 
 
 
@@ -58,7 +58,7 @@ class Solution:
                             ans.append(ap)
                         l += 1
                         r -= 1
-                            
+                        
         return ans
 ```
 
@@ -66,4 +66,4 @@ class Solution:
 
 ##### 어려웠던 점
 
-- 최대 만족도를 구하는 것이기에 dp를 사용하려 했으나 인자가 여러개라 구현하기가 어려웠다.
+- 
