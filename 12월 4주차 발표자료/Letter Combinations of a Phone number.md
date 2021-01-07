@@ -10,7 +10,7 @@
 1. Phone number마다 지정된 문자열을 만듭니다.
 2. digits에 따라 누르는 순서를 재귀로 반복하여 나온 결과값을 answer배열에 추가해줍니다.
 
-### 👻접근 방식 ans 👻About
+### 👻접근 방식 and 👻About
 
 1. 우선, Phone number마다 지정된 문자열을 만듭니다.
 
