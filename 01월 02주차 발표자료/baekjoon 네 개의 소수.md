@@ -25,7 +25,7 @@
 - 1 제거 
 - 2 소수로 채택 -> 2 배수 지움
 - 3, 5, 7 같은 방식으로 진행
-- ![image-20210111000832673](img/에라토스테네스의 체.png)
+- ![image-20210111000832673](C:\Users\gayoung\2020_ASW\Presentation\01월 02주차 발표자료\img\에라토스테네스의 체.png)
 
 - ```python
   def make_prime(n):
