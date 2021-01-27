@@ -40,8 +40,8 @@
         넣어놓고 증가하면 그 전 값들이 남아 있어서 안됨.
 
 ⇒ 
+![Untitled](https://user-images.githubusercontent.com/42796949/105992257-3acb1900-60e8-11eb-92d6-9ab648fc0d13.png)
 
-![LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled.png](LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled.png)
 
 1. 가장 큰 값이 몇 인가?
 2. 가장 늦게 들어 온 수 부터 1번에 해당하는 요소는 무엇인가?
@@ -57,7 +57,7 @@
 
 # Better Solve
 
-![LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%201.png](LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/42796949/105992236-34d53800-60e8-11eb-810a-7d9d82823918.png)
 
 1. **어떤게 Top과 가까운 element이고 MostFrequency를 만족하는지?**
 
@@ -67,11 +67,11 @@
 
     < push >
 
-    ![LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%202.png](LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/42796949/105992243-37d02880-60e8-11eb-8ed0-f1f353f155a0.png)
 
     < pop >
 
-    ![LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%203.png](LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/Untitled%203.png)
+![Untitled 3](https://user-images.githubusercontent.com/42796949/105992249-39015580-60e8-11eb-910d-eefa3123ed64.png)
 
     **줄여줄 필요가 없다.  언젠가  global이 4개일 때 쓰겠지**
 
@@ -139,4 +139,4 @@ public:
 };
 ```
 
-![LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/LeetCode_895_Maximum_Frequency_Stack.png](LeetCode%20895%20Maximum%20Frequency%20Stack%20fc20e8dc54884deb9ffc4e16c66f16dc/LeetCode_895_Maximum_Frequency_Stack.png)
+![LeetCode_895_Maximum_Frequency_Stack](https://user-images.githubusercontent.com/42796949/105992408-6b12b780-60e8-11eb-844d-721a557fc633.png)
