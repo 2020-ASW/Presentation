@@ -24,7 +24,7 @@
 
 ```
 // [2,-1,null]
-		2
+        2
      -1
 output : 1
 answer : 2
@@ -33,7 +33,7 @@ answer : 2
 
 
 // [4,-1,0,null,null,2,2]
-	     4
+         4
      -1     0
           2   2
 output : 4
